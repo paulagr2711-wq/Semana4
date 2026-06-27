@@ -1,0 +1,13 @@
+La capacidad de que las comunidades e iniciativas ciudadanas desarrollen sus propias herramientas digitales mediante tecnologías 
+abiertas constituye un pilar fundamental para la soberanía tecnológica, la adaptabilidad local y la transparencia democrática. Al
+apropiarse del proceso de diseño, las organizaciones civiles transicionan de consumidores pasivos a arquitectos de sus propios ecosistemas,
+garantizando el control absoluto sobre sus datos y mitigando la dependencia de proveedores corporativos (vendor lock-in). A diferencia del
+software comercial, orientado a la rentabilidad masiva, el desarrollo propio permite moldear soluciones precisas para problemáticas territoriales 
+específicas que los mercados suelen ignorar, como la gestión comunitaria de recursos o el mapeo de riesgos locales.
+
+En este escenario, el ecosistema de Node.js se consolida como una elección técnica estratégica. Al unificar el desarrollo bajo el lenguaje JavaScript tanto 
+en el frontend como en el backend, reduce significativamente la curva de aprendizaje y optimiza el capital humano disponible en la comunidad. Asimismo, el aprovechamiento
+del repositorio NPM permite integrar módulos preconstruidos para ensamblar plataformas robustas con presupuestos mínimos, mientras que la arquitectura asíncrona y no bloqueante de Node.js
+maximiza el rendimiento con un bajo consumo de hardware, haciendo viable el uso de servidores económicos o donados. Finalmente, al basarse en código abierto, estas herramientas eliminan la
+opacidad de las "cajas negras" comerciales, permitiendo auditorías públicas que aseguran el tratamiento ético de la información. En definitiva, la autogestión tecnológica con tecnologías abiertas 
+es un mecanismo indispensable para estructurar infraestructuras digitales emancipatorias, sostenibles y alineadas con el bienestar social.
